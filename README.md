@@ -71,5 +71,5 @@ Contributions are always welcome!
 
 ## AUTHOR
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@SUVAJIT-KARMAKAR](https://github.com/SUVAJIT-KARMAKAR)
 
