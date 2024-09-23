@@ -1,0 +1,36 @@
+
+
+# DEPENDENCIES
+/node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
+# TESTING
+/coverage
+
+# NEXT.JS
+/.next/
+/out/
+
+# PRODUCTION
+/build
+
+# MISC
+.DS_Store
+*.pem
+
+# DEBUG
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# LOCAL
+.env*.local
+
+# VERCEL
+.vercel
+
+# TYPESCRIPT
+*.tsbuildinfo
+next-env.d.ts
